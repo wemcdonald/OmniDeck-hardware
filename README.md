@@ -26,8 +26,8 @@ This is the enclosure for [OmniDeck](https://github.com/wemcdonald/OmniDeck) —
 
 | File | Description |
 |------|-------------|
-| `OmniDeck.3mf` | Print-ready model (recommended) |
-| `OmniDeck.f3z` | Fusion 360 source for modifications |
+| [`OmniDeck.3mf`](https://github.com/wemcdonald/OmniDeck-hardware/raw/master/OmniDeck.3mf) | Print-ready model (recommended) |
+| [`OmniDeck.f3z`](https://github.com/wemcdonald/OmniDeck-hardware/raw/master/OmniDeck.f3z) | Fusion 360 source for modifications |
 
 ## License
 
